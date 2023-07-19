@@ -1,8 +1,8 @@
-Referral Year,Black Felony Referrals Filed,Black Felony Referrals Not Filed,Black Total Felony Referrals,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Black defendants declined,Percent of cases involving Hispanic defendants declined,Percent of cases involving White defendants declined
-2017.0,8.0,7.0,15.0,160.0,55.0,215.0,738.0,270.0,1008.0,46.66666667,25.58139535,26.78571429
-2018.0,16.0,4.0,20.0,182.0,55.0,237.0,829.0,313.0,1142.0,20,23.20675105,27.40805604
-2019.0,17.0,4.0,21.0,242.0,53.0,295.0,864.0,243.0,1107.0,19.04761905,17.96610169,21.95121951
-2020.0,19.0,4.0,23.0,204.0,53.0,257.0,669.0,173.0,842.0,17.39130435,20.62256809,20.54631829
-2021.0,23.0,8.0,31.0,182.0,46.0,228.0,633.0,176.0,809.0,25.80645161,20.1754386,21.7552534
-2022.0,19.0,4.0,23.0,174.0,55.0,229.0,592.0,174.0,766.0,17.39130435,24.01746725,22.7154047
-2023.0,,,,42.0,9.0,51.0,103.0,26.0,129.0,#DIV/0!,17.64705882,20.15503876
+Referral Year,Hispanic Felony Referrals Filed,Hispanic Felony Referrals Not Filed,Hispanic Total Felony Referrals,White Felony Referrals Filed,White Felony Referrals Not Filed,White Total Felony Referrals,Percent of cases involving Hispanic defendants declined,Percent of cases involving White defendants declined
+2017,160,55,215,740,270,1010,25.58139535,26.73267327
+2018,184,55,239,826,313,1139,23.0125523,27.48024583
+2019,248,54,302,859,243,1102,17.8807947,22.0508167
+2020,204,54,258,669,171,840,20.93023256,20.35714286
+2021,183,47,230,632,178,810,20.43478261,21.97530864
+2022,177,54,231,589,190,779,23.37662338,24.3902439
+2023,81,15,96,220,60,280,15.625,21.42857143
