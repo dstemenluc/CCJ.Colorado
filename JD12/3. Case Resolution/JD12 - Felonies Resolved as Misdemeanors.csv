@@ -1,5 +1,5 @@
 Disposition Quarter,Felony Charge Reduced to Misdemeanor,Felony Charge Not Reduced to Misdemeanor,Total Felony Charges Disposed,Percent of felony filings disposed as misdemeanors
-2020 Q1,56,57,113,49.55752212
+2020 Q1,58,58,116,50
 2020 Q2,47,60,107,43.92523364
 2020 Q3,46,29,75,61.33333333
 2020 Q4,30,18,48,62.5
@@ -10,6 +10,7 @@ Disposition Quarter,Felony Charge Reduced to Misdemeanor,Felony Charge Not Reduc
 2022 Q1,72,31,103,69.90291262
 2022 Q2,62,21,83,74.69879518
 2022 Q3,61,27,88,69.31818182
-2022 Q4,40,29,69,57.97101449
-2023 Q1,24,24,48,50
-2023 Q2,13,14,27,48.14814815
+2022 Q4,40,30,70,57.14285714
+2023 Q1,26,24,50,52
+2023 Q2,16,24,40,40
+2023 Q3,33,17,50,66
