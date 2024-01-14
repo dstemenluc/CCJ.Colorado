@@ -1,8 +1,9 @@
 Disposition Quarter,New case filed within 180 days - felony defendants,No new case filed within 180 days - felony defendants,Total Felony Defendants,Actual Percent of felony defendants with new case filed within 1 year,Percent of felony defendants with new case filed within 1 year,New case filed within 180 days - misdemeanor defendants,No new case filed within 180 days - misdmeanor defendants,Total Misdemeanor Defendants,Percent of misdemeanor defendants with new case filed within 1 year
-2021 Q1,1,4,5,20,24.28571429,8,33,41,19.51219512
-2021 Q2,2,5,7,28.57142857,22.85714286,3,41,44,6.818181818
-2021 Q3,1,4,5,20,19.52380952,13,31,44,29.54545455
-2021 Q4,1,9,10,10,10,18,45,63,28.57142857
-2022 Q1,0,7,7,0,3.333333333,12,62,74,16.21621622
-2022 Q2,0,5,5,0,2.777777778,6,44,50,12
-2023 Q3,1,11,12,8.333333333,4.166666667,14,44,58,24.13793103
+2021 Q1,1,4,5,20,31.42857143,8,33,41,19.51219512
+2021 Q2,3,4,7,42.85714286,27.61904762,3,41,44,6.818181818
+2021 Q3,1,4,5,20,24.28571429,13,31,44,29.54545455
+2021 Q4,1,9,10,10,10,18,46,64,28.125
+2022 Q1,0,7,7,0,3.333333333,12,61,73,16.43835616
+2022 Q2,0,5,5,0,2.777777778,10,40,50,20
+2023 Q3,1,11,12,8.333333333,11.11111111,10,48,58,17.24137931
+2022 Q4,2,6,8,25,16.66666667,10,44,54,18.51851852
