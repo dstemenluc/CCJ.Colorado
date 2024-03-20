@@ -1,8 +1,9 @@
-Year,Prosecutors,Support staff,Total Staff,Percent of staff in support positions
-2016,32.5,42,74.5,56.37583893
-2017,34.5,43,77.5,55.48387097
-2018,35.5,47,82.5,56.96969697
-2019,37.5,48,85.5,56.14035088
-2020,39.5,50,89.5,55.86592179
-2021,40,50,90,55.55555556
-2022,41,53,94,56.38297872
+Year,Prosecutors,"Clerical, Paralegal, and Admin.",Victim/Witness Staff,Investigators/Officers,Other,Total Staff,"Percent of staff in clerical, paralegal, or general support positions"
+2017,37,24,9,10,5,85,28.23529412
+2018,37,24,9,10,5,85,28.23529412
+2019,39,20,12,10,6,87,22.98850575
+2020,40,23,13,8,6,90,25.55555556
+2021,41,22,13,9,6,91,24.17582418
+2022,41,23,14,9,9,96,23.95833333
+2023,42,25,14,9,10,100,25
+2024,42,23,14,9,11,99,23.23232323

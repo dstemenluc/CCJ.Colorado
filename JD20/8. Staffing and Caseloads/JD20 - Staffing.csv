@@ -1,8 +1,9 @@
-Title,Prosecutor,IT/Data Analytics,Paralegal,Investigator,Victim/Witness,Support Staff,Diversion,Total Staff,"Percent of staff in clerical, paralegal, or general support positions"
-2016,31.19,1,0,9,13.5,21.5,4.6,80.79,26.61220448
-2017,30.6,1,0,9,13.75,22.5,5,81.85,27.48930971
-2018,32.59,1,0,10,14.76,26,5,89.35,29.09904868
-2019,32.59,1,0,10,13.76,25,5,87.35,28.62049227
-2020,34.58,1,0,10,12.75,25,6,89.33,27.98611889
-2021,36.6,2,0,11,13.75,25,6,94.35,26.49708532
-2022,38.6,3,3,14,18.75,24,6,107.35,25.15137401
+Year,Prosecutors,"Clerical, Paralegal, and Admin.",Victim/Witness Staff,Investigators/Officers,Other,Total Staff,"Percent of staff in clerical, paralegal, or general support positions"
+2017,30,22,13,9,6,80,27.5
+2018,30,26,14,10,6,86,30.23255814
+2019,32,23,13,10,8,86,26.74418605
+2020,35,24,13,11,10,93,25.80645161
+2021,37,26,18,13,11,105,24.76190476
+2022,39,25,17,14,11,106,23.58490566
+2023,38,24,18,15,11,106,22.64150943
+2024,36,24,18,15,11,104,23.07692308
