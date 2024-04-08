@@ -1,9 +1,4 @@
 Disposition Quarter,Highest Income Neighborhood Incarceration,Highest Income Neighborhood No Incarceration,High Income Neighborhood Total Cases,Lowest Income Neighborhood Incarceration,Lowest Income Neighborhood No Incarceration,Lowest Income Neighborhood Total Cases,Percent of cases from highest income zip code incarcerated,Percent of cases from lowest income zip code incarcerated
-2022 Q1,44,38,82,61,48,109,53.65853659,55.96330275
-2022 Q2,44,24,68,50,66,116,64.70588235,43.10344828
-2022 Q3,38,34,72,53,47,100,52.77777778,53
-2022 Q4,43,25,68,52,38,90,63.23529412,57.77777778
-2023 Q1,45,34,79,83,60,143,56.96202532,58.04195804
-2023 Q2,38,34,72,59,57,116,52.77777778,50.86206897
-2023 Q3,35,39,74,57,46,103,47.2972973,55.33980583
-2023 Q4,17,22,39,39,41,80,43.58974359,48.75
+2022,177,124,301,221,195,416,58.80398671,53.125
+2023,147,143,290,273,192,465,50.68965517,58.70967742
+2024,22,28,50,30,45,75,44,40

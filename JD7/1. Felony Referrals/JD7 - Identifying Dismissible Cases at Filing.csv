@@ -1,8 +1,9 @@
-Referral Year,Felony Referrals Filed,Felony Referrals Not Filed,Total Felony Referrals,Felony Cases Acquitted,Felony Cases Deferred,Felony Cases Dismissed,Felony Cases Diverted,Felony Cases Found Guilty,Felony Cases Plea Dismissal,Felony Cases Plead Guilty,Total Felony Cases Disposed,Percent of felony referrals declined,Percent of felony cases dismissed after filing
-2017,943,369,1312,5,137,96,0,32,90,557,917,28.125,10.46892039
-2018,1072,414,1486,5,135,135,1,18,110,551,955,27.86002692,14.13612565
-2019,1163,332,1495,2,130,134,2,26,97,623,1014,22.20735786,13.21499014
-2020,922,258,1180,3,104,112,2,25,73,505,824,21.86440678,13.59223301
-2021,861,255,1116,4,113,122,1,19,56,534,849,22.84946237,14.36984688
-2022,808,274,1082,5,96,85,9,15,77,499,786,25.32347505,10.81424936
-2023,682,175,857,4,80,100,8,9,53,382,636,20.42007001,15.72327044
+Referral Year,Felony Referrals Filed,Felony Referrals Not Filed,Total Felony Referrals,Felony Cases Acquitted,Felony Cases Deferred,Felony Cases Dismissed,Felony Cases Found Guilty,Felony Cases Plea Dismissal,Felony Cases Plead Guilty,Total Felony Cases Disposed,Percent of felony referrals declined,Percent of felony cases dismissed after filing
+2017,942,369,1311,5,136,96,32,90,556,915,28.14645309,10.49180328
+2018,1072,414,1486,5,135,135,18,110,551,954,27.86002692,14.1509434
+2019,1163,332,1495,2,130,134,26,97,624,1013,22.20735786,13.22803554
+2020,922,260,1182,3,104,114,25,73,505,824,21.99661591,13.83495146
+2021,861,258,1119,4,115,123,20,57,535,854,23.05630027,14.4028103
+2022,808,286,1094,5,97,87,15,77,499,780,26.14259598,11.15384615
+2023,682,193,875,4,83,106,11,56,387,647,22.05714286,16.38330757
+2024,199,36,235,0,21,24,0,8,86,139,15.31914894,17.26618705
