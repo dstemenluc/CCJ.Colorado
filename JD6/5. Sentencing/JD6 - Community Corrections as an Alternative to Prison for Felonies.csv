@@ -13,7 +13,7 @@ Disposition Quarter,Deferred,Probation,Community Corrections,Prison
 2019 Q4,27,25,6,17
 2020 Q1,19,20,2,20
 2020 Q2,12,20,4,7
-2020 Q3,20,16,8,8
+2020 Q3,20,16,8,7
 2020 Q4,28,4,4,7
 2021 Q1,17,9,5,10
 2021 Q2,26,13,7,10
@@ -28,5 +28,6 @@ Disposition Quarter,Deferred,Probation,Community Corrections,Prison
 2023 Q3,25,12,4,13
 2023 Q4,31,9,5,11
 2024 Q1,23,10,7,9
-2024 Q2,30,9,4,6
-2024 Q3,34,1,5,8
+2024 Q2,30,10,4,7
+2024 Q3,36,2,6,9
+2024 Q4,31,5,4,24
