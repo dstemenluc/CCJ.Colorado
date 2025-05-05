@@ -1,7 +1,8 @@
 Disposition Year,Black Incarceration,Black No Incarceration,Black Total,Hispanic Incarceration,Hispanic No Incarceration,Hispanic Total,White Incarceration,White No Incarceration,White Total,Percent of Black defendants incarcerated,Percent of Hispanic defendants incarcerated,Percent of White defendants incarcerated
-2019,11,5,16,37,24,61,120,66,186,,60.6557377,64.51612903
+2019,11,5,16,36,24,60,121,67,188,,60,64.36170213
 2020,3,5,8,38,7,45,84,60,144,,84.44444444,58.33333333
 2021,10,6,16,55,18,73,94,65,159,,75.34246575,59.11949686
 2022,7,6,13,60,29,89,89,57,146,,67.41573034,60.95890411
 2023,8,1,9,43,31,74,70,29,99,,58.10810811,70.70707071
-2024,5,5,10,29,28,57,49,42,91,,50.87719298,53.84615385
+2024,5,5,10,32,29,61,52,43,95,,52.45901639,54.73684211
+2025,,,,11,10,21,13,17,30,,52.38095238,43.33333333

@@ -1,7 +1,7 @@
 Disposition Year,Highest Income Neighbood Cases Dismissed,Highest Income Neighborhood Cases Not Dismissed,Highest Income Neighborhood Total Cases Disposed,Lowest Income Neighbood Cases Dismissed,Lowest Income Neighborhood Cases Not Dismissed,Lowest Income Neighborhood Total Cases Disposed,Percent of cases in highest income zip codes dismissed,Percent of cases in lowest income zip codes dismissed
 2019,15,61,76,5,15,20,19.73684211,25
-2020,11,42,53,3,16,19,20.75471698,
-2021,13,44,57,3,16,19,22.80701754,
-2022,11,55,66,4,8,12,16.66666667,
-2023,10,33,43,6,10,16,23.25581395,
-2024,8,42,50,5,17,22,16,22.72727273
+2020,11,42,53,3,16,19,20.75471698,15.78947368
+2021,13,44,57,3,16,19,22.80701754,15.78947368
+2022,11,55,66,4,8,12,16.66666667,33.33333333
+2023,10,33,43,6,10,16,23.25581395,37.5
+2024,8,42,50,5,19,24,16,20.83333333
