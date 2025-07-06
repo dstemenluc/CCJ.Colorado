@@ -6,7 +6,7 @@ Disposition Quarter,At least 1 prior felony conviction,Prior misdemeanor convict
 2018 Q1,91,58,87,236
 2018 Q2,132,67,87,286
 2018 Q3,127,66,87,280
-2018 Q4,136,49,68,253
+2018 Q4,137,49,67,253
 2019 Q1,116,45,61,222
 2019 Q2,133,47,85,265
 2019 Q3,103,44,68,215
@@ -22,7 +22,7 @@ Disposition Quarter,At least 1 prior felony conviction,Prior misdemeanor convict
 2022 Q1,136,49,41,226
 2022 Q2,113,44,49,206
 2022 Q3,122,46,41,209
-2022 Q4,77,48,41,166
+2022 Q4,77,48,42,167
 2023 Q1,92,33,48,173
 2023 Q2,104,41,36,181
 2023 Q3,100,51,39,190
@@ -31,4 +31,5 @@ Disposition Quarter,At least 1 prior felony conviction,Prior misdemeanor convict
 2024 Q2,96,46,42,184
 2024 Q3,75,31,30,136
 2024 Q4,56,21,19,96
-2025 Q1,71,16,21,108
+2025 Q1,74,16,25,115
+2025 Q2,73,38,35,146
